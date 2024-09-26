@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NVIDIA SMI Monitor
+Comment=Monitor NVIDIA GPU usage
+Exec=watch -n 1 nvidia-smi
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=System;
